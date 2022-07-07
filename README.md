@@ -1,4 +1,10 @@
 # Rapper-Face-Classification
+Classifies a picture of a rapper into one of 5 categories
+  Kanye West
+  Nicki Minaj
+  Eminem
+  Drake
+  Jay-Z
 
 Runs on localhost by cd-ing into server then running
   ~ python server.py
